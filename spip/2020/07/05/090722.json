@@ -63,7 +63,7 @@
   },
   {
     "version": "3.2",
-    "sites": 3044,
+    "sites": 3045,
     "php": [
       {
         "version": "4.3",
@@ -87,7 +87,7 @@
       },
       {
         "version": "5.3",
-        "sites": 25
+        "sites": 26
       },
       {
         "version": "5.4",
@@ -99,33 +99,33 @@
       },
       {
         "version": "5.6",
-        "sites": 402
+        "sites": 397
       },
       {
         "version": "7.0",
-        "sites": 153
+        "sites": 152
       },
       {
         "version": "7.1",
-        "sites": 206
+        "sites": 204
       },
       {
         "version": "7.2",
-        "sites": 443
+        "sites": 444
       },
       {
         "version": "7.3",
-        "sites": 184
+        "sites": 185
       },
       {
         "version": "7.4",
-        "sites": 21
+        "sites": 20
       }
     ]
   },
   {
     "version": "3.1",
-    "sites": 1697,
+    "sites": 1698,
     "php": [
       {
         "version": "4.3",
@@ -149,11 +149,11 @@
       },
       {
         "version": "5.3",
-        "sites": 63
+        "sites": 64
       },
       {
         "version": "5.4",
-        "sites": 64
+        "sites": 63
       },
       {
         "version": "5.5",
@@ -161,7 +161,7 @@
       },
       {
         "version": "5.6",
-        "sites": 746
+        "sites": 745
       },
       {
         "version": "7.0",
@@ -169,11 +169,11 @@
       },
       {
         "version": "7.1",
-        "sites": 33
+        "sites": 34
       },
       {
         "version": "7.2",
-        "sites": 68
+        "sites": 66
       },
       {
         "version": "7.3",
@@ -187,7 +187,7 @@
   },
   {
     "version": "3.0",
-    "sites": 2239,
+    "sites": 2240,
     "php": [
       {
         "version": "4.3",
@@ -203,7 +203,7 @@
       },
       {
         "version": "5.1",
-        "sites": 440
+        "sites": 435
       },
       {
         "version": "5.2",
@@ -211,7 +211,7 @@
       },
       {
         "version": "5.3",
-        "sites": 156
+        "sites": 157
       },
       {
         "version": "5.4",
@@ -223,7 +223,7 @@
       },
       {
         "version": "5.6",
-        "sites": 573
+        "sites": 572
       },
       {
         "version": "7.0",
@@ -249,7 +249,7 @@
   },
   {
     "version": "2.1",
-    "sites": 1660,
+    "sites": 1657,
     "php": [
       {
         "version": "4.3",
@@ -265,11 +265,11 @@
       },
       {
         "version": "5.1",
-        "sites": 269
+        "sites": 265
       },
       {
         "version": "5.2",
-        "sites": 190
+        "sites": 191
       },
       {
         "version": "5.3",
@@ -311,7 +311,7 @@
   },
   {
     "version": "2.0",
-    "sites": 719,
+    "sites": 725,
     "php": [
       {
         "version": "4.3",
@@ -319,7 +319,7 @@
       },
       {
         "version": "4.4",
-        "sites": 473
+        "sites": 474
       },
       {
         "version": "5.0",
@@ -327,7 +327,7 @@
       },
       {
         "version": "5.1",
-        "sites": 77
+        "sites": 75
       },
       {
         "version": "5.2",
