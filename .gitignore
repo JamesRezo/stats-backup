@@ -1,1 +1,3 @@
-diff.patch
+/docker-compose.yml
+/diff.patch
+/.cache/
