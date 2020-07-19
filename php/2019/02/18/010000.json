@@ -1,0 +1,54 @@
+[
+  {
+    "version": "7.3",
+    "sites": 16
+  },
+  {
+    "version": "7.2",
+    "sites": 307
+  },
+  {
+    "version": "7.1",
+    "sites": 388
+  },
+  {
+    "version": "7.0",
+    "sites": 477
+  },
+  {
+    "version": "5.6",
+    "sites": 3023
+  },
+  {
+    "version": "5.5",
+    "sites": 347
+  },
+  {
+    "version": "5.4",
+    "sites": 1459
+  },
+  {
+    "version": "5.3",
+    "sites": 1539
+  },
+  {
+    "version": "5.2",
+    "sites": 959
+  },
+  {
+    "version": "5.1",
+    "sites": 1197
+  },
+  {
+    "version": "5.0",
+    "sites": 1
+  },
+  {
+    "version": "4.4",
+    "sites": 2585
+  },
+  {
+    "version": "4.3",
+    "sites": 4
+  }
+]

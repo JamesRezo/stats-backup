@@ -1,0 +1,42 @@
+[
+  {
+    "version": "all",
+    "sites": 18089
+  },
+  {
+    "version": "3.3",
+    "sites": 20
+  },
+  {
+    "version": "3.2",
+    "sites": 3457
+  },
+  {
+    "version": "3.1",
+    "sites": 3451
+  },
+  {
+    "version": "3.0",
+    "sites": 4546
+  },
+  {
+    "version": "2.1",
+    "sites": 3435
+  },
+  {
+    "version": "2.0",
+    "sites": 1487
+  },
+  {
+    "version": "1.9",
+    "sites": 1181
+  },
+  {
+    "version": "older",
+    "sites": 260
+  },
+  {
+    "version": "unknown",
+    "sites": 234
+  }
+]
