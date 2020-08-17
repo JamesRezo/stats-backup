@@ -1,15 +1,18 @@
 # stats-backup
 
-Backup data from [https://stats.spip.net] to process it over time. 
+Backup data from [stats.spip.net](https://stats.spip.net) to process it over time. 
 
 ## JSON View
 
-[https://jamesrezo.github.io/stats-backup/spip.json]
+- [SPIP Versions](https://jamesrezo.github.io/stats-backup/spip.json)
+- [PHP Versions](https://jamesrezo.github.io/stats-backup/php.json)
 
 ## CSV View
 
-[https://jamesrezo.github.io/stats-backup/spip.csv]
+- [SPIP Versions](https://jamesrezo.github.io/stats-backup/spip.csv)
+- [PHP Versions](https://jamesrezo.github.io/stats-backup/php.csv)
 
 ## History example
 
-[https://jamesrezo.github.io/stats-backup/spip/2020/08/17/084356.json]
+- [SPIP 2020-08-17](https://jamesrezo.github.io/stats-backup/spip/2020/08/17/084356.json)
+- [PHP 2020-08-17](https://jamesrezo.github.io/stats-backup/php/2020/08/17/084356.json)
