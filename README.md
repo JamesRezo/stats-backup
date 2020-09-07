@@ -1,6 +1,6 @@
 # stats-backup
 
-Backup data from [stats.spip.net](https://stats.spip.net) to process it over time. 
+Backup data from [stats.spip.net](https://contrib.spip.net/spip.php?page=stats) to process it over time.
 
 ## JSON View
 
