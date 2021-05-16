@@ -29,13 +29,13 @@
       },
       {
         "version": "4.4",
-        "sites": 324
+        "sites": 322
       }
     ]
   },
   {
     "version": "2.0",
-    "sites": 626,
+    "sites": 625,
     "php": [
       {
         "version": "5.6",
@@ -59,13 +59,13 @@
       },
       {
         "version": "4.4",
-        "sites": 420
+        "sites": 418
       }
     ]
   },
   {
     "version": "2.1",
-    "sites": 1252,
+    "sites": 1254,
     "php": [
       {
         "version": "7.3",
@@ -93,17 +93,17 @@
       },
       {
         "version": "5.1",
-        "sites": 223
+        "sites": 222
       },
       {
         "version": "4.4",
-        "sites": 536
+        "sites": 539
       }
     ]
   },
   {
     "version": "3.0",
-    "sites": 1573,
+    "sites": 1574,
     "php": [
       {
         "version": "7.4",
@@ -135,15 +135,15 @@
       },
       {
         "version": "5.3",
-        "sites": 98
+        "sites": 97
       },
       {
         "version": "5.2",
-        "sites": 48
+        "sites": 47
       },
       {
         "version": "5.1",
-        "sites": 363
+        "sites": 357
       }
     ]
   },
@@ -165,7 +165,7 @@
       },
       {
         "version": "7.1",
-        "sites": 23
+        "sites": 22
       },
       {
         "version": "7.0",
@@ -173,7 +173,7 @@
       },
       {
         "version": "5.6",
-        "sites": 272
+        "sites": 271
       },
       {
         "version": "5.5",
@@ -181,7 +181,7 @@
       },
       {
         "version": "5.4",
-        "sites": 49
+        "sites": 50
       },
       {
         "version": "5.3",
@@ -199,7 +199,7 @@
   },
   {
     "version": "3.2",
-    "sites": 2662,
+    "sites": 2661,
     "php": [
       {
         "version": "7.4",
@@ -207,7 +207,7 @@
       },
       {
         "version": "7.3",
-        "sites": 186
+        "sites": 185
       },
       {
         "version": "7.2",
@@ -215,7 +215,7 @@
       },
       {
         "version": "7.1",
-        "sites": 165
+        "sites": 164
       },
       {
         "version": "7.0",
