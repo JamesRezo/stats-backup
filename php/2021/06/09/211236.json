@@ -1,11 +1,11 @@
 [
   {
     "version": "4.4",
-    "sites": 1284,
+    "sites": 1283,
     "spip": [
       {
         "version": "1.9",
-        "sites": 324
+        "sites": 322
       },
       {
         "version": "2.0",
@@ -13,13 +13,13 @@
       },
       {
         "version": "2.1",
-        "sites": 532
+        "sites": 533
       }
     ]
   },
   {
     "version": "5.1",
-    "sites": 673,
+    "sites": 668,
     "spip": [
       {
         "version": "1.9",
@@ -31,11 +31,11 @@
       },
       {
         "version": "2.1",
-        "sites": 221
+        "sites": 218
       },
       {
         "version": "3.0",
-        "sites": 354
+        "sites": 352
       },
       {
         "version": "3.1",
@@ -101,7 +101,7 @@
   },
   {
     "version": "5.4",
-    "sites": 481,
+    "sites": 482,
     "spip": [
       {
         "version": "1.9",
@@ -125,13 +125,13 @@
       },
       {
         "version": "3.2",
-        "sites": 190
+        "sites": 191
       }
     ]
   },
   {
     "version": "5.5",
-    "sites": 84,
+    "sites": 85,
     "spip": [
       {
         "version": "1.9",
@@ -143,7 +143,7 @@
       },
       {
         "version": "3.0",
-        "sites": 31
+        "sites": 32
       },
       {
         "version": "3.1",
@@ -157,7 +157,7 @@
   },
   {
     "version": "5.6",
-    "sites": 1063,
+    "sites": 1060,
     "spip": [
       {
         "version": "1.9",
@@ -181,7 +181,7 @@
       },
       {
         "version": "3.2",
-        "sites": 307
+        "sites": 304
       },
       {
         "version": "3.3",
@@ -209,15 +209,15 @@
   },
   {
     "version": "7.1",
-    "sites": 179,
+    "sites": 185,
     "spip": [
       {
         "version": "3.1",
-        "sites": 22
+        "sites": 23
       },
       {
         "version": "3.2",
-        "sites": 156
+        "sites": 161
       },
       {
         "version": "4.0",
@@ -227,7 +227,7 @@
   },
   {
     "version": "7.2",
-    "sites": 201,
+    "sites": 202,
     "spip": [
       {
         "version": "3.0",
@@ -239,7 +239,7 @@
       },
       {
         "version": "3.2",
-        "sites": 183
+        "sites": 184
       },
       {
         "version": "3.3",
@@ -249,7 +249,7 @@
   },
   {
     "version": "7.3",
-    "sites": 247,
+    "sites": 248,
     "spip": [
       {
         "version": "2.1",
@@ -265,7 +265,7 @@
       },
       {
         "version": "3.2",
-        "sites": 188
+        "sites": 189
       },
       {
         "version": "3.3",
