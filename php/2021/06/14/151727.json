@@ -9,11 +9,11 @@
       },
       {
         "version": "2.0",
-        "sites": 427
+        "sites": 428
       },
       {
         "version": "2.1",
-        "sites": 526
+        "sites": 525
       }
     ]
   },
@@ -45,7 +45,7 @@
   },
   {
     "version": "5.2",
-    "sites": 162,
+    "sites": 161,
     "spip": [
       {
         "version": "1.9",
@@ -61,7 +61,7 @@
       },
       {
         "version": "3.0",
-        "sites": 44
+        "sites": 43
       },
       {
         "version": "3.1",
@@ -131,7 +131,7 @@
   },
   {
     "version": "5.5",
-    "sites": 85,
+    "sites": 86,
     "spip": [
       {
         "version": "1.9",
@@ -147,7 +147,7 @@
       },
       {
         "version": "3.1",
-        "sites": 18
+        "sites": 19
       },
       {
         "version": "3.2",
@@ -157,7 +157,7 @@
   },
   {
     "version": "5.6",
-    "sites": 1058,
+    "sites": 1057,
     "spip": [
       {
         "version": "1.9",
@@ -173,7 +173,7 @@
       },
       {
         "version": "3.0",
-        "sites": 419
+        "sites": 420
       },
       {
         "version": "3.1",
@@ -181,7 +181,7 @@
       },
       {
         "version": "3.2",
-        "sites": 301
+        "sites": 299
       },
       {
         "version": "3.3",
@@ -191,7 +191,7 @@
   },
   {
     "version": "7.0",
-    "sites": 130,
+    "sites": 132,
     "spip": [
       {
         "version": "3.0",
@@ -199,11 +199,11 @@
       },
       {
         "version": "3.1",
-        "sites": 40
+        "sites": 41
       },
       {
         "version": "3.2",
-        "sites": 89
+        "sites": 90
       }
     ]
   },
@@ -275,7 +275,7 @@
   },
   {
     "version": "7.4",
-    "sites": 120,
+    "sites": 119,
     "spip": [
       {
         "version": "3.0",
@@ -287,7 +287,7 @@
       },
       {
         "version": "3.2",
-        "sites": 105
+        "sites": 104
       },
       {
         "version": "3.3",
