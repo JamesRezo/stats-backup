@@ -2,6 +2,11 @@
 
 Backup data from [stats.spip.net](https://contrib.spip.net/spip.php?page=stats) to process it over time.
 
+## WEB View
+
+- [My SPIP Stats](http://james.at.rezo.net/stats.spip.net/)
+- [D3.js experiments](https://observablehq.com/@jamesrezo?tab=notebooks)
+
 ## JSON View
 
 - [SPIP Versions](https://jamesrezo.github.io/stats-backup/spip.json)
