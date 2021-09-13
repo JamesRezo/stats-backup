@@ -35,7 +35,7 @@
   },
   {
     "version": "2.0",
-    "sites": 440,
+    "sites": 442,
     "php": [
       {
         "version": "5.6",
@@ -55,17 +55,17 @@
       },
       {
         "version": "5.1",
-        "sites": 58
+        "sites": 57
       },
       {
         "version": "4.4",
-        "sites": 294
+        "sites": 296
       }
     ]
   },
   {
     "version": "2.1",
-    "sites": 1027,
+    "sites": 1029,
     "php": [
       {
         "version": "5.6",
@@ -89,17 +89,17 @@
       },
       {
         "version": "5.1",
-        "sites": 199
+        "sites": 200
       },
       {
         "version": "4.4",
-        "sites": 390
+        "sites": 391
       }
     ]
   },
   {
     "version": "3.0",
-    "sites": 1363,
+    "sites": 1366,
     "php": [
       {
         "version": "7.4",
@@ -135,13 +135,13 @@
       },
       {
         "version": "5.1",
-        "sites": 334
+        "sites": 335
       }
     ]
   },
   {
     "version": "3.1",
-    "sites": 680,
+    "sites": 683,
     "php": [
       {
         "version": "7.4",
@@ -165,7 +165,7 @@
       },
       {
         "version": "5.6",
-        "sites": 136
+        "sites": 139
       },
       {
         "version": "5.5",
@@ -191,19 +191,19 @@
   },
   {
     "version": "3.2",
-    "sites": 2394,
+    "sites": 2396,
     "php": [
       {
         "version": "7.4",
-        "sites": 107
+        "sites": 106
       },
       {
         "version": "7.3",
-        "sites": 140
+        "sites": 138
       },
       {
         "version": "7.2",
-        "sites": 109
+        "sites": 111
       },
       {
         "version": "7.1",
@@ -215,7 +215,7 @@
       },
       {
         "version": "5.6",
-        "sites": 229
+        "sites": 228
       },
       {
         "version": "5.5",
@@ -223,7 +223,7 @@
       },
       {
         "version": "5.4",
-        "sites": 164
+        "sites": 162
       },
       {
         "version": "5.3",
@@ -233,7 +233,7 @@
   },
   {
     "version": "3.3",
-    "sites": 40,
+    "sites": 41,
     "php": [
       {
         "version": "7.4",
@@ -241,7 +241,7 @@
       },
       {
         "version": "7.3",
-        "sites": 6
+        "sites": 7
       },
       {
         "version": "7.2",
