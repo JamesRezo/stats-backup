@@ -11,7 +11,7 @@
   },
   {
     "version": "4.4",
-    "sites": 678,
+    "sites": 677,
     "spip": [
       {
         "version": "1.9",
@@ -23,7 +23,7 @@
       },
       {
         "version": "2.1",
-        "sites": 272
+        "sites": 271
       },
       {
         "version": "3.0",
@@ -41,7 +41,7 @@
   },
   {
     "version": "5.1",
-    "sites": 621,
+    "sites": 620,
     "spip": [
       {
         "version": "1.9",
@@ -53,7 +53,7 @@
       },
       {
         "version": "2.1",
-        "sites": 195
+        "sites": 194
       },
       {
         "version": "3.0",
@@ -71,11 +71,11 @@
   },
   {
     "version": "5.2",
-    "sites": 118,
+    "sites": 119,
     "spip": [
       {
         "version": "1.9",
-        "sites": 21
+        "sites": 22
       },
       {
         "version": "2.0",
@@ -127,7 +127,7 @@
   },
   {
     "version": "5.4",
-    "sites": 431,
+    "sites": 430,
     "spip": [
       {
         "version": "1.9",
@@ -143,7 +143,7 @@
       },
       {
         "version": "3.0",
-        "sites": 97
+        "sites": 96
       },
       {
         "version": "3.1",
@@ -179,7 +179,7 @@
   },
   {
     "version": "5.6",
-    "sites": 992,
+    "sites": 991,
     "spip": [
       {
         "version": "1.9",
@@ -191,11 +191,11 @@
       },
       {
         "version": "2.1",
-        "sites": 40
+        "sites": 41
       },
       {
         "version": "3.0",
-        "sites": 135
+        "sites": 136
       },
       {
         "version": "3.1",
@@ -203,13 +203,13 @@
       },
       {
         "version": "3.2",
-        "sites": 658
+        "sites": 655
       }
     ]
   },
   {
     "version": "7.0",
-    "sites": 70,
+    "sites": 68,
     "spip": [
       {
         "version": "2.1",
@@ -221,17 +221,17 @@
       },
       {
         "version": "3.1",
-        "sites": 16
+        "sites": 15
       },
       {
         "version": "3.2",
-        "sites": 52
+        "sites": 51
       }
     ]
   },
   {
     "version": "7.1",
-    "sites": 147,
+    "sites": 149,
     "spip": [
       {
         "version": "3.0",
@@ -243,13 +243,13 @@
       },
       {
         "version": "3.2",
-        "sites": 114
+        "sites": 116
       }
     ]
   },
   {
     "version": "7.2",
-    "sites": 139,
+    "sites": 140,
     "spip": [
       {
         "version": "3.1",
@@ -257,13 +257,13 @@
       },
       {
         "version": "3.2",
-        "sites": 129
+        "sites": 130
       }
     ]
   },
   {
     "version": "7.3",
-    "sites": 222,
+    "sites": 223,
     "spip": [
       {
         "version": "3.1",
@@ -279,7 +279,7 @@
       },
       {
         "version": "4.0",
-        "sites": 38
+        "sites": 39
       }
     ]
   },
@@ -335,7 +335,7 @@
       },
       {
         "version": "3.2",
-        "sites": 2
+        "sites": 3
       },
       {
         "version": "3.3",
@@ -347,7 +347,7 @@
       },
       {
         "version": "4.1",
-        "sites": 11
+        "sites": 10
       }
     ]
   },
