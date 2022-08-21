@@ -31,7 +31,7 @@
   },
   {
     "version": "5.1",
-    "sites": 604,
+    "sites": 606,
     "spip": [
       {
         "version": "1.9",
@@ -43,11 +43,11 @@
       },
       {
         "version": "2.1",
-        "sites": 174
+        "sites": 175
       },
       {
         "version": "3.0",
-        "sites": 356
+        "sites": 357
       },
       {
         "version": "3.1",
@@ -87,7 +87,7 @@
   },
   {
     "version": "5.3",
-    "sites": 269,
+    "sites": 270,
     "spip": [
       {
         "version": "1.9",
@@ -103,7 +103,7 @@
       },
       {
         "version": "3.0",
-        "sites": 145
+        "sites": 146
       },
       {
         "version": "3.1",
@@ -169,7 +169,7 @@
   },
   {
     "version": "5.6",
-    "sites": 797,
+    "sites": 803,
     "spip": [
       {
         "version": "1.9",
@@ -185,21 +185,21 @@
       },
       {
         "version": "3.0",
-        "sites": 134
+        "sites": 132
       },
       {
         "version": "3.1",
-        "sites": 111
+        "sites": 116
       },
       {
         "version": "3.2",
-        "sites": 497
+        "sites": 500
       }
     ]
   },
   {
     "version": "7.0",
-    "sites": 64,
+    "sites": 65,
     "spip": [
       {
         "version": "2.1",
@@ -211,7 +211,7 @@
       },
       {
         "version": "3.1",
-        "sites": 12
+        "sites": 13
       },
       {
         "version": "3.2",
@@ -221,7 +221,7 @@
   },
   {
     "version": "7.1",
-    "sites": 152,
+    "sites": 151,
     "spip": [
       {
         "version": "3.0",
@@ -233,7 +233,7 @@
       },
       {
         "version": "3.2",
-        "sites": 122
+        "sites": 121
       }
     ]
   },
@@ -265,7 +265,7 @@
       },
       {
         "version": "3.2",
-        "sites": 143
+        "sites": 142
       },
       {
         "version": "3.3",
@@ -273,13 +273,13 @@
       },
       {
         "version": "4.0",
-        "sites": 36
+        "sites": 37
       }
     ]
   },
   {
     "version": "7.4",
-    "sites": 410,
+    "sites": 411,
     "spip": [
       {
         "version": "3.0",
@@ -291,7 +291,7 @@
       },
       {
         "version": "3.2",
-        "sites": 267
+        "sites": 269
       },
       {
         "version": "3.3",
@@ -299,7 +299,7 @@
       },
       {
         "version": "4.0",
-        "sites": 88
+        "sites": 87
       },
       {
         "version": "4.1",
@@ -339,7 +339,7 @@
   },
   {
     "version": "8.1",
-    "sites": 20,
+    "sites": 15,
     "spip": [
       {
         "version": "3.2",
@@ -347,7 +347,7 @@
       },
       {
         "version": "4.1",
-        "sites": 19
+        "sites": 14
       }
     ]
   }
