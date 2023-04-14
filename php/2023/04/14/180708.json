@@ -1,7 +1,7 @@
 [
   {
     "version": "4.4",
-    "sites": 333,
+    "sites": 331,
     "spip": [
       {
         "version": "1.9",
@@ -13,7 +13,7 @@
       },
       {
         "version": "2.1",
-        "sites": 133
+        "sites": 131
       },
       {
         "version": "3.0",
@@ -31,7 +31,7 @@
   },
   {
     "version": "5.1",
-    "sites": 591,
+    "sites": 589,
     "spip": [
       {
         "version": "1.9",
@@ -47,7 +47,7 @@
       },
       {
         "version": "3.0",
-        "sites": 361
+        "sites": 359
       },
       {
         "version": "3.1",
@@ -169,7 +169,7 @@
   },
   {
     "version": "5.6",
-    "sites": 676,
+    "sites": 678,
     "spip": [
       {
         "version": "1.9",
@@ -185,7 +185,7 @@
       },
       {
         "version": "3.0",
-        "sites": 110
+        "sites": 112
       },
       {
         "version": "3.1",
@@ -352,20 +352,6 @@
       {
         "version": "4.2",
         "sites": 10
-      }
-    ]
-  },
-  {
-    "version": "8.2",
-    "sites": 7,
-    "spip": [
-      {
-        "version": "4.1",
-        "sites": 3
-      },
-      {
-        "version": "4.2",
-        "sites": 4
       }
     ]
   }
