@@ -1,27 +1,27 @@
 [
   {
     "version": "4.4",
-    "sites": 571,
+    "sites": 534,
     "spip": [
       {
         "version": "1.9",
-        "sites": 127
+        "sites": 115
       },
       {
         "version": "2.0",
-        "sites": 201
+        "sites": 193
       },
       {
         "version": "2.1",
-        "sites": 232
+        "sites": 217
       },
       {
         "version": "3.0",
-        "sites": 4
+        "sites": 3
       },
       {
         "version": "3.1",
-        "sites": 3
+        "sites": 2
       },
       {
         "version": "3.2",
@@ -31,7 +31,7 @@
   },
   {
     "version": "5.1",
-    "sites": 609,
+    "sites": 593,
     "spip": [
       {
         "version": "1.9",
@@ -43,11 +43,11 @@
       },
       {
         "version": "2.1",
-        "sites": 163
+        "sites": 162
       },
       {
         "version": "3.0",
-        "sites": 378
+        "sites": 363
       },
       {
         "version": "3.1",
@@ -169,7 +169,7 @@
   },
   {
     "version": "5.6",
-    "sites": 423,
+    "sites": 420,
     "spip": [
       {
         "version": "1.9",
@@ -185,15 +185,15 @@
       },
       {
         "version": "3.0",
-        "sites": 73
+        "sites": 72
       },
       {
         "version": "3.1",
-        "sites": 67
+        "sites": 68
       },
       {
         "version": "3.2",
-        "sites": 252
+        "sites": 249
       }
     ]
   },
@@ -213,7 +213,7 @@
   },
   {
     "version": "7.1",
-    "sites": 39,
+    "sites": 38,
     "spip": [
       {
         "version": "3.1",
@@ -221,7 +221,7 @@
       },
       {
         "version": "3.2",
-        "sites": 22
+        "sites": 21
       }
     ]
   },
