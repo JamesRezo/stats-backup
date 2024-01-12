@@ -1,19 +1,19 @@
 [
   {
     "version": "4.4",
-    "sites": 720,
+    "sites": 724,
     "spip": [
       {
         "version": "1.9",
-        "sites": 176
+        "sites": 177
       },
       {
         "version": "2.0",
-        "sites": 245
+        "sites": 246
       },
       {
         "version": "2.1",
-        "sites": 288
+        "sites": 290
       },
       {
         "version": "3.0",
@@ -31,11 +31,11 @@
   },
   {
     "version": "5.1",
-    "sites": 601,
+    "sites": 609,
     "spip": [
       {
         "version": "1.9",
-        "sites": 13
+        "sites": 12
       },
       {
         "version": "2.0",
@@ -47,7 +47,7 @@
       },
       {
         "version": "3.0",
-        "sites": 391
+        "sites": 400
       },
       {
         "version": "3.1",
@@ -165,7 +165,7 @@
   },
   {
     "version": "5.6",
-    "sites": 389,
+    "sites": 390,
     "spip": [
       {
         "version": "1.9",
@@ -181,7 +181,7 @@
       },
       {
         "version": "3.0",
-        "sites": 71
+        "sites": 72
       },
       {
         "version": "3.1",
@@ -209,7 +209,7 @@
   },
   {
     "version": "7.1",
-    "sites": 20,
+    "sites": 22,
     "spip": [
       {
         "version": "3.1",
@@ -217,7 +217,7 @@
       },
       {
         "version": "3.2",
-        "sites": 19
+        "sites": 21
       }
     ]
   },
@@ -237,7 +237,7 @@
   },
   {
     "version": "7.3",
-    "sites": 69,
+    "sites": 70,
     "spip": [
       {
         "version": "3.0",
@@ -249,7 +249,7 @@
       },
       {
         "version": "3.2",
-        "sites": 44
+        "sites": 45
       },
       {
         "version": "4.0",
@@ -267,7 +267,7 @@
       },
       {
         "version": "3.2",
-        "sites": 282
+        "sites": 280
       },
       {
         "version": "4.0",
@@ -279,17 +279,17 @@
       },
       {
         "version": "4.2",
-        "sites": 100
+        "sites": 102
       }
     ]
   },
   {
     "version": "8.0",
-    "sites": 58,
+    "sites": 60,
     "spip": [
       {
         "version": "3.2",
-        "sites": 2
+        "sites": 3
       },
       {
         "version": "3.3",
@@ -301,7 +301,7 @@
       },
       {
         "version": "4.1",
-        "sites": 23
+        "sites": 24
       },
       {
         "version": "4.2",
@@ -311,7 +311,7 @@
   },
   {
     "version": "8.1",
-    "sites": 152,
+    "sites": 150,
     "spip": [
       {
         "version": "3.2",
@@ -323,13 +323,13 @@
       },
       {
         "version": "4.2",
-        "sites": 103
+        "sites": 101
       }
     ]
   },
   {
     "version": "8.2",
-    "sites": 63,
+    "sites": 62,
     "spip": [
       {
         "version": "3.2",
@@ -345,7 +345,7 @@
       },
       {
         "version": "4.2",
-        "sites": 57
+        "sites": 56
       }
     ]
   }
