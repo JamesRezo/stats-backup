@@ -1,5 +1,0 @@
-services: 
-  poller:
-    image: spip/stats-poller:latest
-    volumes: 
-      - .:/build

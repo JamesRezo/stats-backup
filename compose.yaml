@@ -1,0 +1,10 @@
+services: 
+  poller:
+    image: spip/stats-poller:latest
+    environment: 
+      DEBUG: 1
+      # git config --global --get user.name
+      GIT_AUTHOR_NAME: "JamesRezo"
+      GIT_AUTHOR_EMAIL: "james@rezo.net"
+    volumes: 
+      - .:/build
