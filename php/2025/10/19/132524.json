@@ -1,0 +1,362 @@
+[
+  {
+    "version": "4.4",
+    "sites": 1,
+    "spip": [
+      {
+        "version": "2.1",
+        "sites": 1
+      }
+    ]
+  },
+  {
+    "version": "5.2",
+    "sites": 35,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 8
+      },
+      {
+        "version": "2.0",
+        "sites": 8
+      },
+      {
+        "version": "2.1",
+        "sites": 7
+      },
+      {
+        "version": "3.0",
+        "sites": 10
+      },
+      {
+        "version": "3.1",
+        "sites": 2
+      }
+    ]
+  },
+  {
+    "version": "5.3",
+    "sites": 35,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.1",
+        "sites": 11
+      },
+      {
+        "version": "3.0",
+        "sites": 7
+      },
+      {
+        "version": "3.1",
+        "sites": 13
+      },
+      {
+        "version": "3.2",
+        "sites": 3
+      }
+    ]
+  },
+  {
+    "version": "5.4",
+    "sites": 62,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 2
+      },
+      {
+        "version": "2.0",
+        "sites": 2
+      },
+      {
+        "version": "2.1",
+        "sites": 9
+      },
+      {
+        "version": "3.0",
+        "sites": 29
+      },
+      {
+        "version": "3.1",
+        "sites": 8
+      },
+      {
+        "version": "3.2",
+        "sites": 12
+      }
+    ]
+  },
+  {
+    "version": "5.5",
+    "sites": 101,
+    "spip": [
+      {
+        "version": "2.1",
+        "sites": 2
+      },
+      {
+        "version": "3.0",
+        "sites": 9
+      },
+      {
+        "version": "3.1",
+        "sites": 1
+      },
+      {
+        "version": "3.2",
+        "sites": 89
+      }
+    ]
+  },
+  {
+    "version": "5.6",
+    "sites": 209,
+    "spip": [
+      {
+        "version": "2.0",
+        "sites": 2
+      },
+      {
+        "version": "2.1",
+        "sites": 7
+      },
+      {
+        "version": "3.0",
+        "sites": 34
+      },
+      {
+        "version": "3.1",
+        "sites": 36
+      },
+      {
+        "version": "3.2",
+        "sites": 130
+      }
+    ]
+  },
+  {
+    "version": "7.0",
+    "sites": 34,
+    "spip": [
+      {
+        "version": "3.1",
+        "sites": 13
+      },
+      {
+        "version": "3.2",
+        "sites": 21
+      }
+    ]
+  },
+  {
+    "version": "7.1",
+    "sites": 17,
+    "spip": [
+      {
+        "version": "3.1",
+        "sites": 1
+      },
+      {
+        "version": "3.2",
+        "sites": 16
+      }
+    ]
+  },
+  {
+    "version": "7.2",
+    "sites": 32,
+    "spip": [
+      {
+        "version": "3.2",
+        "sites": 32
+      }
+    ]
+  },
+  {
+    "version": "7.3",
+    "sites": 54,
+    "spip": [
+      {
+        "version": "3.0",
+        "sites": 1
+      },
+      {
+        "version": "3.1",
+        "sites": 7
+      },
+      {
+        "version": "3.2",
+        "sites": 40
+      },
+      {
+        "version": "4.0",
+        "sites": 6
+      }
+    ]
+  },
+  {
+    "version": "7.4",
+    "sites": 259,
+    "spip": [
+      {
+        "version": "3.0",
+        "sites": 1
+      },
+      {
+        "version": "3.1",
+        "sites": 16
+      },
+      {
+        "version": "3.2",
+        "sites": 117
+      },
+      {
+        "version": "4.0",
+        "sites": 6
+      },
+      {
+        "version": "4.1",
+        "sites": 10
+      },
+      {
+        "version": "4.2",
+        "sites": 22
+      },
+      {
+        "version": "4.3",
+        "sites": 30
+      },
+      {
+        "version": "4.4",
+        "sites": 57
+      }
+    ]
+  },
+  {
+    "version": "8.0",
+    "sites": 46,
+    "spip": [
+      {
+        "version": "4.0",
+        "sites": 3
+      },
+      {
+        "version": "4.1",
+        "sites": 5
+      },
+      {
+        "version": "4.2",
+        "sites": 9
+      },
+      {
+        "version": "4.3",
+        "sites": 9
+      },
+      {
+        "version": "4.4",
+        "sites": 20
+      }
+    ]
+  },
+  {
+    "version": "8.1",
+    "sites": 140,
+    "spip": [
+      {
+        "version": "4.0",
+        "sites": 1
+      },
+      {
+        "version": "4.1",
+        "sites": 12
+      },
+      {
+        "version": "4.2",
+        "sites": 20
+      },
+      {
+        "version": "4.3",
+        "sites": 13
+      },
+      {
+        "version": "4.4",
+        "sites": 94
+      }
+    ]
+  },
+  {
+    "version": "8.2",
+    "sites": 174,
+    "spip": [
+      {
+        "version": "4.1",
+        "sites": 1
+      },
+      {
+        "version": "4.2",
+        "sites": 6
+      },
+      {
+        "version": "4.3",
+        "sites": 48
+      },
+      {
+        "version": "4.4",
+        "sites": 119
+      }
+    ]
+  },
+  {
+    "version": "8.3",
+    "sites": 269,
+    "spip": [
+      {
+        "version": "3.1",
+        "sites": 2
+      },
+      {
+        "version": "4.1",
+        "sites": 2
+      },
+      {
+        "version": "4.2",
+        "sites": 3
+      },
+      {
+        "version": "4.3",
+        "sites": 37
+      },
+      {
+        "version": "4.4",
+        "sites": 225
+      }
+    ]
+  },
+  {
+    "version": "8.4",
+    "sites": 63,
+    "spip": [
+      {
+        "version": "3.2",
+        "sites": 1
+      },
+      {
+        "version": "4.1",
+        "sites": 1
+      },
+      {
+        "version": "4.3",
+        "sites": 3
+      },
+      {
+        "version": "4.4",
+        "sites": 58
+      }
+    ]
+  }
+]
