@@ -6,7 +6,7 @@
   },
   {
     "version": "1.9",
-    "sites": 17,
+    "sites": 18,
     "php": [
       {
         "version": "5.6",
@@ -23,12 +23,16 @@
       {
         "version": "5.2",
         "sites": 1
+      },
+      {
+        "version": "4.4",
+        "sites": 1
       }
     ]
   },
   {
     "version": "2.0",
-    "sites": 19,
+    "sites": 20,
     "php": [
       {
         "version": "5.6",
@@ -46,11 +50,11 @@
   },
   {
     "version": "2.1",
-    "sites": 69,
+    "sites": 68,
     "php": [
       {
         "version": "5.6",
-        "sites": 6
+        "sites": 5
       },
       {
         "version": "5.5",
@@ -118,7 +122,7 @@
       },
       {
         "version": "7.3",
-        "sites": 5
+        "sites": 6
       },
       {
         "version": "7.1",
@@ -130,7 +134,7 @@
       },
       {
         "version": "5.6",
-        "sites": 29
+        "sites": 30
       },
       {
         "version": "5.5",
@@ -138,21 +142,17 @@
       },
       {
         "version": "5.4",
-        "sites": 2
+        "sites": 3
       },
       {
         "version": "5.3",
         "sites": 2
-      },
-      {
-        "version": "5.2",
-        "sites": 1
       }
     ]
   },
   {
     "version": "3.2",
-    "sites": 478,
+    "sites": 474,
     "php": [
       {
         "version": "8.3",
@@ -160,15 +160,15 @@
       },
       {
         "version": "7.4",
-        "sites": 73
+        "sites": 72
       },
       {
         "version": "7.3",
-        "sites": 30
+        "sites": 29
       },
       {
         "version": "7.2",
-        "sites": 27
+        "sites": 25
       },
       {
         "version": "7.1",
@@ -180,7 +180,7 @@
       },
       {
         "version": "5.6",
-        "sites": 113
+        "sites": 112
       },
       {
         "version": "5.5",
@@ -277,7 +277,7 @@
   },
   {
     "version": "4.3",
-    "sites": 130,
+    "sites": 129,
     "php": [
       {
         "version": "8.5",
@@ -293,7 +293,7 @@
       },
       {
         "version": "8.2",
-        "sites": 10
+        "sites": 9
       },
       {
         "version": "8.1",
@@ -311,15 +311,15 @@
   },
   {
     "version": "4.4",
-    "sites": 1474,
+    "sites": 1477,
     "php": [
       {
         "version": "8.5",
-        "sites": 18
+        "sites": 19
       },
       {
         "version": "8.4",
-        "sites": 87
+        "sites": 89
       },
       {
         "version": "8.3",
@@ -331,7 +331,7 @@
       },
       {
         "version": "8.1",
-        "sites": 37
+        "sites": 36
       },
       {
         "version": "8.0",
