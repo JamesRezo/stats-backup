@@ -1,0 +1,368 @@
+[
+  {
+    "version": "4.4",
+    "sites": 2,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.1",
+        "sites": 1
+      }
+    ]
+  },
+  {
+    "version": "5.2",
+    "sites": 9,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.0",
+        "sites": 3
+      },
+      {
+        "version": "2.1",
+        "sites": 2
+      },
+      {
+        "version": "3.0",
+        "sites": 3
+      }
+    ]
+  },
+  {
+    "version": "5.3",
+    "sites": 11,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.1",
+        "sites": 4
+      },
+      {
+        "version": "3.0",
+        "sites": 4
+      },
+      {
+        "version": "3.1",
+        "sites": 2
+      }
+    ]
+  },
+  {
+    "version": "5.4",
+    "sites": 39,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.0",
+        "sites": 2
+      },
+      {
+        "version": "2.1",
+        "sites": 7
+      },
+      {
+        "version": "3.0",
+        "sites": 18
+      },
+      {
+        "version": "3.1",
+        "sites": 2
+      },
+      {
+        "version": "3.2",
+        "sites": 9
+      }
+    ]
+  },
+  {
+    "version": "5.5",
+    "sites": 11,
+    "spip": [
+      {
+        "version": "2.1",
+        "sites": 1
+      },
+      {
+        "version": "3.0",
+        "sites": 5
+      },
+      {
+        "version": "3.1",
+        "sites": 1
+      },
+      {
+        "version": "3.2",
+        "sites": 4
+      }
+    ]
+  },
+  {
+    "version": "5.6",
+    "sites": 169,
+    "spip": [
+      {
+        "version": "1.9",
+        "sites": 1
+      },
+      {
+        "version": "2.0",
+        "sites": 1
+      },
+      {
+        "version": "2.1",
+        "sites": 6
+      },
+      {
+        "version": "3.0",
+        "sites": 20
+      },
+      {
+        "version": "3.1",
+        "sites": 29
+      },
+      {
+        "version": "3.2",
+        "sites": 112
+      }
+    ]
+  },
+  {
+    "version": "7.0",
+    "sites": 24,
+    "spip": [
+      {
+        "version": "3.1",
+        "sites": 7
+      },
+      {
+        "version": "3.2",
+        "sites": 17
+      }
+    ]
+  },
+  {
+    "version": "7.1",
+    "sites": 14,
+    "spip": [
+      {
+        "version": "3.1",
+        "sites": 1
+      },
+      {
+        "version": "3.2",
+        "sites": 13
+      }
+    ]
+  },
+  {
+    "version": "7.2",
+    "sites": 25,
+    "spip": [
+      {
+        "version": "3.2",
+        "sites": 25
+      }
+    ]
+  },
+  {
+    "version": "7.3",
+    "sites": 40,
+    "spip": [
+      {
+        "version": "3.0",
+        "sites": 1
+      },
+      {
+        "version": "3.1",
+        "sites": 6
+      },
+      {
+        "version": "3.2",
+        "sites": 29
+      },
+      {
+        "version": "4.0",
+        "sites": 4
+      }
+    ]
+  },
+  {
+    "version": "7.4",
+    "sites": 169,
+    "spip": [
+      {
+        "version": "3.0",
+        "sites": 1
+      },
+      {
+        "version": "3.1",
+        "sites": 8
+      },
+      {
+        "version": "3.2",
+        "sites": 73
+      },
+      {
+        "version": "4.0",
+        "sites": 1
+      },
+      {
+        "version": "4.1",
+        "sites": 7
+      },
+      {
+        "version": "4.2",
+        "sites": 6
+      },
+      {
+        "version": "4.3",
+        "sites": 10
+      },
+      {
+        "version": "4.4",
+        "sites": 63
+      }
+    ]
+  },
+  {
+    "version": "8.0",
+    "sites": 35,
+    "spip": [
+      {
+        "version": "4.1",
+        "sites": 4
+      },
+      {
+        "version": "4.2",
+        "sites": 5
+      },
+      {
+        "version": "4.3",
+        "sites": 4
+      },
+      {
+        "version": "4.4",
+        "sites": 22
+      }
+    ]
+  },
+  {
+    "version": "8.1",
+    "sites": 54,
+    "spip": [
+      {
+        "version": "4.1",
+        "sites": 2
+      },
+      {
+        "version": "4.2",
+        "sites": 10
+      },
+      {
+        "version": "4.3",
+        "sites": 6
+      },
+      {
+        "version": "4.4",
+        "sites": 36
+      }
+    ]
+  },
+  {
+    "version": "8.2",
+    "sites": 148,
+    "spip": [
+      {
+        "version": "4.2",
+        "sites": 4
+      },
+      {
+        "version": "4.3",
+        "sites": 10
+      },
+      {
+        "version": "4.4",
+        "sites": 134
+      }
+    ]
+  },
+  {
+    "version": "8.3",
+    "sites": 247,
+    "spip": [
+      {
+        "version": "4.0",
+        "sites": 1
+      },
+      {
+        "version": "4.1",
+        "sites": 1
+      },
+      {
+        "version": "4.2",
+        "sites": 2
+      },
+      {
+        "version": "4.3",
+        "sites": 14
+      },
+      {
+        "version": "4.4",
+        "sites": 229
+      }
+    ]
+  },
+  {
+    "version": "8.4",
+    "sites": 92,
+    "spip": [
+      {
+        "version": "4.1",
+        "sites": 1
+      },
+      {
+        "version": "4.2",
+        "sites": 1
+      },
+      {
+        "version": "4.3",
+        "sites": 2
+      },
+      {
+        "version": "4.4",
+        "sites": 88
+      }
+    ]
+  },
+  {
+    "version": "8.5",
+    "sites": 26,
+    "spip": [
+      {
+        "version": "4.2",
+        "sites": 1
+      },
+      {
+        "version": "4.3",
+        "sites": 2
+      },
+      {
+        "version": "4.4",
+        "sites": 23
+      }
+    ]
+  }
+]
